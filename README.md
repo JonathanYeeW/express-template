@@ -5,21 +5,25 @@ A basic express server template. This is really tailored to my personal preferen
 ## How This Template Was Made
 
 1. Initialize the node project
-   npm init
+
+   - npm init
 
 2. Install dependencies and devDevpendencies
-   npm install --save express cors body-parser
-   npm install --save-dev nodemon jest
+
+   - npm install --save express cors body-parser
+   - npm install --save-dev nodemon jest
 
 3. Create the server file
-   touch server.js
-   input code included in the template.
+
+   - touch server.js
+   - input code included in the template.
 
 4. Add basic routing
-   mkdir routes
-   cd routes
-   touch index.js
-   input code included in the template.
+
+   - mkdir routes
+   - cd routes
+   - touch index.js
+   - input code included in the template.
 
 5. configure package.json file
 
