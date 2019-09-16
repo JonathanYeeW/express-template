@@ -1,0 +1,21 @@
+{
+  "name": "express-server",
+  "version": "0.0.1",
+  "description": "A basic express server template. Created in 9/2019",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest --watchAll"
+  },
+  "author": "Jonathan William Yee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.2"
+  }
+}
