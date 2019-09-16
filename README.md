@@ -29,3 +29,9 @@ A basic express server template. This is really tailored to my personal preferen
 
 - start : "nodemon server.js"
 - test : "jest --watchAll"
+
+### Notes
+
+You can test if the server works in the terminal :
+
+- curl http://localhost:8000
