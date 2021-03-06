@@ -1,6 +1,6 @@
 # express-template
 
-A basic express server template. This is really tailored to my personal preferences and made because I don't want to recreate the wheel every time I start a new project.
+This is a terribly outdated repo that I never use and don't want to waste time fixing.
 
 ## How This Template Was Made
 
